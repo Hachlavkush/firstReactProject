@@ -1,0 +1,96 @@
+{
+    "product": [
+        {
+            "availableSizes": ["S", "XS"],
+            "currencyFormat": "$",
+            "currencyId": "USD",
+            "description": "4 MSL",
+            "id": 12,
+            "installments": 9,
+            "isFreeShipping": true,
+            "price": 10.9,
+            "sku": 12064273040195392,
+            "style": "Black With Custom Print",
+            "title": "Cat Tee Black T-Shirt"
+
+        },
+        {
+            "availableSizes": ["M"],
+            "currencyFormat": "$",
+            "currencyId": "USD",
+            "description": "",
+            "id": 13,
+            "installments": 5,
+            "isFreeShipping": true,
+            "price": 29.45,
+            "sku": 51498472915966370,
+            "style": "Front Print And Paisley print",
+            "title": "Dark Thug Blue-Navy T-Shirt"
+        },
+        {
+            "availableSizes": ["X", "L", "XL"],
+            "currencyFormat": "$",
+            "currencyId": "USD",
+            "description": "GPX Poly 1",
+            "id": 14,
+            "installments": 3,
+            "isFreeShipping": true,
+            "price": 9,
+            "sku": 10686354557628304,
+            "style": "Front Tie Dye Print",
+            "title": "Sphynx Tie Dye Wine T-Shirt"
+        },
+        {
+            "availableSizes": ["X", "L", "XL", "XXL"],
+            "currencyFormat": "$",
+            "currencyId": "USD",
+            "description": "Treino 2014",
+            "id": 15,
+            "installments": 5,
+            "isFreeShipping": true,
+            "price": 14,
+            "sku": 11033926921508488,
+            "style": "Black T-Shirt With Front Print",
+            "title": "Skuul"
+        },
+        {
+            "availableSizes": ["X", "L"],
+            "currencyFormat": "$",
+            "currencyId": "USD",
+            "description": "",
+            "id": 11,
+            "installments": 3,
+            "isFreeShipping": true,
+            "price": 13.25,
+            "sku": 39876704341265610,
+            "style": "Wine",
+            "title": "Wine Skul T-Shirt"
+        },
+        {
+            "availableSizes": ["X", "L", "XL", "XXL"],
+            "currencyFormat": "$",
+            "currencyId": "USD",
+            "description": "14/15 s/n",
+            "id": 0,
+            "installments": 9,
+            "isFreeShipping": true,
+            "price": 10.9,
+            "sku": 8552515751438644,
+            "style": "Branco com listras pretas",
+            "title": "Cat Tee Black T-Shirt"
+        },
+        {
+            "availableSizes": ["X", "L", "XL", "XXL"],
+            "currencyFormat": "$",
+            "currencyId": "USD",
+            "description": "14/15 s/n",
+            "id": 1,
+            "installments": 9,
+            "isFreeShipping": true,
+            "price": 10.9,
+            "sku": 18644119330491310,
+            "style": "Preta com listras brancas",
+            "title": "Sphynx Tie Dye Grey T-Shirt" 
+        }
+    ]
+}
